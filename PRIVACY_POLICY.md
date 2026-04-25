@@ -1,8 +1,8 @@
-# Privacy Policy for Chess Widget
+# Privacy Policy for Fianchetto – Chess Widget
 
 Effective date: April 25, 2026
 
-Chess Widget ("the app") is a widget-first Android app. This policy explains what data the app processes and why.
+Fianchetto – Chess Widget ("the app") is a widget-first Android app. This policy explains what data the app processes and why.
 
 ## Data We Process
 
@@ -44,4 +44,4 @@ Support and privacy requests: https://github.com/shashanks-yggdrasil-tree/chess-
 
 ## Trademark Notice
 
-Lichess is a third-party service. Chess Widget is an independent app and is not affiliated with or endorsed by Lichess.
+Lichess is a third-party service. Fianchetto – Chess Widget is an independent app and is not affiliated with or endorsed by Lichess.
