@@ -1,6 +1,6 @@
 # Privacy Policy for Chess Widget
 
-Effective date: March 28, 2026
+Effective date: April 25, 2026
 
 Chess Widget ("the app") is a widget-first Android app. This policy explains what data the app processes and why.
 
@@ -40,7 +40,7 @@ This app is not directed to children under 13.
 
 ## Contact
 
-Support and privacy requests: https://github.com/shashanks-yggdrasil-tree/chess-widget/issues
+Support and privacy requests: https://github.com/shashanks-yggdrasil-tree/chess-widget-policies/issues
 
 ## Trademark Notice
 

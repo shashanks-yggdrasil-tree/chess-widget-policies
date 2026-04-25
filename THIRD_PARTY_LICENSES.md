@@ -29,6 +29,14 @@ For commercial distribution, keep this file up to date.
    License: Android Software Development Kit License  
    Source: https://developer.android.com/google/play/billing
 
+7. `androidx.navigation:navigation-fragment-ktx:2.7.7`  
+   License: Apache-2.0  
+   Source: https://developer.android.com/jetpack/androidx/releases/navigation
+
+8. `androidx.navigation:navigation-ui-ktx:2.7.7`  
+   License: Apache-2.0  
+   Source: https://developer.android.com/jetpack/androidx/releases/navigation
+
 ## Chess Piece Assets
 
 Piece drawables are generated from `lichess-org/lila` sources:

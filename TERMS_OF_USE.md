@@ -1,6 +1,6 @@
 # Terms of Use for Chess Widget
 
-Effective date: March 28, 2026
+Effective date: April 25, 2026
 
 By installing or using Chess Widget, you agree to these terms.
 
@@ -42,4 +42,4 @@ These terms may be updated over time. Updated terms apply when published.
 
 ## 9. Contact
 
-Support and legal requests: https://github.com/shashanks-yggdrasil-tree/chess-widget/issues
+Support and legal requests: https://github.com/shashanks-yggdrasil-tree/chess-widget-policies/issues
