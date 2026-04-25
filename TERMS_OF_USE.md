@@ -1,12 +1,12 @@
-# Terms of Use for Fianchetto – Chess Widget
+# Terms of Use for Chess Widget – Fianchetto
 
 Effective date: April 25, 2026
 
-By installing or using Fianchetto – Chess Widget, you agree to these terms.
+By installing or using Chess Widget – Fianchetto, you agree to these terms.
 
 ## 1. Service Scope
 
-Fianchetto – Chess Widget provides chess-related widget features (such as puzzle/game/tournament views) for personal use.
+Chess Widget – Fianchetto provides chess-related widget features (such as puzzle/game/tournament views) for personal use.
 
 ## 2. Third-Party Services
 
@@ -19,9 +19,9 @@ You agree not to misuse the app, abuse API endpoints, bypass rate limits, scrape
 
 ## 4. Intellectual Property and Trademarks
 
-Fianchetto – Chess Widget includes third-party open-source software and assets described in `THIRD_PARTY_LICENSES.md`.
+Chess Widget – Fianchetto includes third-party open-source software and assets described in `THIRD_PARTY_LICENSES.md`.
 All third-party names and trademarks remain the property of their respective owners.
-Fianchetto – Chess Widget is not affiliated with, endorsed by, or sponsored by Lichess or any other third-party chess platform unless explicitly stated.
+Chess Widget – Fianchetto is not affiliated with, endorsed by, or sponsored by Lichess or any other third-party chess platform unless explicitly stated.
 
 ## 5. Lichess API Compliance
 
